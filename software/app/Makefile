@@ -142,7 +142,7 @@ ACDS_VERSION := 18.1
 ELF := bouhmidilab2.elf
 
 # Paths to C, C++, and assembly source files.
-C_SRCS += ../../main.c
+C_SRCS += ../../timer.c
 CXX_SRCS :=
 ASM_SRCS :=
 
