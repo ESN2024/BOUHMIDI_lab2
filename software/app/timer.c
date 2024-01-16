@@ -23,7 +23,7 @@ void handle_timer_interrupt(void*p, alt_u32 param)
 	int cen;
 	int data;
 
-	if (cnt < 999)
+	if (cnt < 1000)
 	{
 		cen = cnt / 100;
 		dis = (cnt/10) % 10;
