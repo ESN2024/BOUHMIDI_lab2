@@ -1,1 +1,2 @@
-# BOUHMIDI_lab2
+# BOUHMIDI_lab2 : Let’s count stuff
+## Sketch de l'architecture
