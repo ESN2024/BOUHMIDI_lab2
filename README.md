@@ -8,3 +8,7 @@ Bin_2_7seg en VHDL
 
 ## Développement SW
 Nombre <=999 en BCD
+
+
+## Compteur de secondes
+![IMG_4643](https://github.com/ESN2024/BOUHMIDI_lab2/assets/144927751/fff81306-65bf-4d25-833d-a0d9de7cd030)
